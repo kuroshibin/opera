@@ -11,7 +11,7 @@ class Info:
         if self.get.lower() == 'heap':
             return '0x8000-0x1000000'
         if self.get.lower() == 'name':
-            return 'simple Server'
+            return 'Kuroshi'
         if self.get.lower() == 'about':
             return 'linux version'
         if self.get.lower() == 'ver':
@@ -19,8 +19,8 @@ class Info:
         if self.get.lower() == 'date':
             return '25-10-2016'
         if self.get.lower() == 'by':
-            return 'www.eyecodec.com'
+            return 'HerMoi'
         if self.get.lower() == 'mail':
-            return 'shaikatssj2@gmail.com'
+            return 'FuckYou'
         if self.get.lower() == 'remode':
             return 'Shaikatssj'
